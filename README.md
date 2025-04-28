@@ -20,20 +20,21 @@ Track your daily progress across up to six habits directly from your Home Screen
 
 ---
 
-## How It Works
+## Visual Example
 
-### 1. Tracking Habits (Check-in)
+![Preview](classicdark.PNG)
 
-You can mark a habit for today inside the Scriptable app by selecting **Check-in**.  
-Each habit row shows daily progress with small dots:
-- **Filled dot** = Habit completed.
-- **Unfilled dot** = Habit not completed.
-
-![Check-in](checkin.jpg)
+The widget displays:
+- A row with the weekday initial, daily dots for the current month, and today's date.
+- Individual rows for each habit showing progress and a counter like `12/30`.
 
 ---
 
-### 2. Changing Habits
+## How It Works
+
+---
+
+### 1. Changing Habits
 
 Customize your six habits by selecting **Change Habits**.  
 You will be prompted to enter **six habit names separated by commas**.
@@ -49,7 +50,7 @@ After saving, your widget will immediately display the new habits.
 
 ---
 
-### 3. Resetting the Month
+### 2. Resetting the Month
 
 There are **two ways** the month can be reset:
 
@@ -69,7 +70,7 @@ You do **not need to manually reset** this happens automatically.
 
 ---
 
-### 4. Choosing a Theme
+### 3. Choosing a Theme
 
 Change the widget's appearance with the **Select Theme** option.  
 Available themes:
@@ -95,13 +96,14 @@ Each theme adjusts background and font colors to match different moods and style
 
 ---
 
-## Visual Example
+### 4. Tracking Habits (Check-in)
 
-![Preview](classicdark.PNG)
+You can mark a habit for today inside the Scriptable app by selecting **Check-in**.  
+Each habit row shows daily progress with small dots:
+- **Filled dot** = Habit completed.
+- **Unfilled dot** = Habit not completed.
 
-The widget displays:
-- A row with the weekday initial, daily dots for the current month, and today's date.
-- Individual rows for each habit showing progress and a counter like `12/30`.
+![Check-in](checkin.jpg)
 
 ---
 
