@@ -1,7 +1,5 @@
 # Habit Tracker Widget
-#  (Inspired by James Scholz)
-
-[](https://github.com/jigwawwf/scriptable-habit-tracker#-habit-tracker-for-ios-inspired-by-james-scholz)
+### (Inspired by James Scholz)
 
 > 🎥 Credit: [James Scholz's YouTube Video](https://youtu.be/Cu-IMFl37LA?t=138)
 
@@ -60,7 +58,7 @@ There are **two ways** the month can be reset:
   - Exports a summary of your previous month's habit performance to the clipboard,
   - Resets the tracker for the new month.
 
-You do **not need to manually reset** â this happens automatically.
+You do **not need to manually reset**this happens automatically.
 
 - **Manual Reset**:  
   If you want to reset before the month ends, select **Reset Month** inside the app:
@@ -79,7 +77,7 @@ Available themes:
 - Classic Dark
 ![classicdark](classicdark.PNG)
 - Classic Light
-![classiclight](classiclight.PNG)
+![classiclight](classicwhite.PNG)
 - Midnight Blue
 ![midnightblue](midnightblue.PNG)
 - Solarized Dark
@@ -116,13 +114,6 @@ The widget displays:
 5. Link the newly created script to the widget.
 
 Done! Your habit tracker is now live and ready.
-
----
-
-## Notes
-
-- After changing the theme or habits, you may need to manually refresh the widget (pull down) or wait for iOS to auto-refresh it.
-- The widget is optimized for the **Medium** size.
 
 ---
 
