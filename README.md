@@ -47,7 +47,7 @@ Sleep, Training, Cardio, Water, Reading, Meditation
 
 After saving, your widget will immediately display the new habits.
 
-> *[Insert screenshot showing the Change Habits input window]*
+![Habits](changehabits.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ You do **not need to manually reset** â this happens automatically.
   - It will export the current month's data to the clipboard,
   - Then reset your tracker manually.
 
-> *[Insert screenshot showing Reset Month confirmation]*
+![Clipboard](clipboardnotification.jpg)
 
 ---
 
@@ -77,22 +77,29 @@ Change the widget's appearance with the **Select Theme** option.
 Available themes:
 
 - Classic Dark
-- Classic Light (now with softer text color #454545)
+![classicdark](classicdark.PNG)
+- Classic Light
+![classiclight](classiclight.PNG)
 - Midnight Blue
+![midnightblue](midnightblue.PNG)
 - Solarized Dark
+![solarizeddark](solarizeddark.PNG)
 - Nordic Night
+![nordicnight](nordicnight.PNG)
 - Paper White
+![paperwhite](paperwhite.PNG)
 - Sweet Pink
+![sweetpink](sweetpink.PNG)
 
 Each theme adjusts background and font colors to match different moods and styles.
 
-> *[Insert screenshot showing the Select Theme menu]*
+![Select](themeselect.jpg)
 
 ---
 
 ## Visual Example
 
-> *[Insert a screenshot of the widget displayed on the Home Screen]*
+![Preview](classicdark.PNG)
 
 The widget displays:
 - A row with the weekday initial, daily dots for the current month, and today's date.
