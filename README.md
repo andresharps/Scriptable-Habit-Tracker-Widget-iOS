@@ -31,7 +31,7 @@ Each habit row shows daily progress with small dots:
 - **Filled dot** = Habit completed.
 - **Unfilled dot** = Habit not completed.
 
-![Check-in](images/checkin.jpg)
+![Check-in](checkin.jpg)
 
 ---
 
