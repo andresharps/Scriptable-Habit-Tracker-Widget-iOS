@@ -67,6 +67,7 @@ You do **not need to manually reset** this happens automatically.
   - Then reset your tracker manually.
 
 ![Clipboard](clipboardnotification.jpg)
+![Clipboard](clipboard.jpg)
 
 ---
 
