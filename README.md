@@ -58,7 +58,7 @@ There are **two ways** the month can be reset:
   - Exports a summary of your previous month's habit performance to the clipboard,
   - Resets the tracker for the new month.
 
-You do **not need to manually reset**this happens automatically.
+You do **not need to manually reset** this happens automatically.
 
 - **Manual Reset**:  
   If you want to reset before the month ends, select **Reset Month** inside the app:
